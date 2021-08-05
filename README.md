@@ -8,10 +8,16 @@
 
 
 ```Python version 3.7.9 (default, Aug 31 2020, 17:10:11) [MSC v.1916 64 bit (AMD64)] Version info. sys.version_info(major=3, minor=7, micro=9, releaselevel='final', serial=0)```
-
-1. **```selenium==3.141.0```**
-2. **```beautifulsoup4==4.9.3```**
-3. **```pandas==1.2.0```**
+1. ```open Anaconda prompt, change file directory path i.e., cd path_to_folder```
+2. **```conda create -n apmcTelenganaScrapping python=3.7```**
+3. **```conda activate apmcTelenganaScrapping```**
+4. **```conda install spyder```**
+5. ```pip install -r path_of_requirments.txt```
+6. **```selenium==3.141.0```**
+7. **```beautifulsoup4==4.9.3```**
+8. **```pandas==1.2.0```**
+9. After above installation type **```spyder```** in Anaconda prompt. Now Spyder IDE will open in sometime.
+10. open **```telengana_scrap_final.py```** in spyder 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Screenshots of works done
